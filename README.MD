@@ -1,0 +1,3 @@
+NPM I 
+NPM RUN DEV
+CRUD 
